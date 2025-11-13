@@ -53,8 +53,8 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center p-4 text-gray-500 text-sm">
-        <p>Создано ведущим фронтенд-инженером.</p>
-        <p>&copy; 2024 Гайд по Задаче 6 ЕГЭ. Все права защищены.</p>
+        <p>Лебедев Андрей (aFluNN)</p>
+        <p>Демонстрационный вариант</p>
       </footer>
     </div>
   );
